@@ -24,6 +24,12 @@
 ## UML
 
 ![Скриншот](jLDFJni_4BtdKrZyBeb-2UeP8KG8XQB-0H6X7geU9lOqSUErL_OiiBHyzphhJRIpQwHUUW1j_DxCl3T_pWE1fwemOc5SfPRaFApn4Wit2bjjI_1G26aWX3cHrwkAy4OwkzGlADvrA4PRfBf4uJnjt8Wq6Hoa5BEKIYWDwnWr6fKWjn4KHv-TGXEEnA-HQ3aF0RquFVKedLTdPmqYnFzVeC.png?raw=true)
+
+## Скриншоты
+
+![Скриншот]()
+![Скриншот]()
+
 ## Запуск
 
 ```bash
