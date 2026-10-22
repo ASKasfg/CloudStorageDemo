@@ -27,8 +27,8 @@
 
 ## Скриншоты
 
-![Скриншот](Screen1.png?raw=true)
-![Скриншот](Screen2.png?raw=true)
+![Скриншот](Screen1?raw=true)
+![Скриншот](Screen2?raw=true)
 
 ## Запуск
 
